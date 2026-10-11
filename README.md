@@ -1,5 +1,17 @@
 # 中轴夹景文化展览海报 Skill / Central Axis Framing Poster Skill
 
+## 作品展示 · Gallery
+
+以下海报均由本 Skill 生成。
+
+| | | | |
+|---|---|---|---|
+| <img src="assets/01-woven-light.png" width="200" alt="织光"> | <img src="assets/02-shape-of-air.png" width="200" alt="青瓷的呼吸"> | <img src="assets/03-holding-the-sky.png" width="200" alt="承"> | <img src="assets/04-wind-in-the-sleeve.png" width="200" alt="袖底风"> |
+| 织光 · 实体轮廓 / 人物动作 | 青瓷的呼吸 · 实体轮廓 | 承 · 实体轮廓 | 袖底风 · 人物动作 |
+| <img src="assets/05-folded-land.png" width="200" alt="折山河"> | <img src="assets/06-light-between.png" width="200" alt="竹间有光"> | <img src="assets/07-rising-still.png" width="200" alt="一缕"> | <img src="assets/08-cut-impress.png" width="200" alt="刻与印"> |
+| 折山河 · 正负对照 | 竹间有光 · 光影投射 | 一缕 · 烟雾气流 | 刻与印 · 正负对照 |
+
+
 左右夹势，中轴聚焦：生成一张 9:16 强设计感文化展览海报，两侧元素表达主题，标题真正参与构图。
 
 ## 它能做什么
